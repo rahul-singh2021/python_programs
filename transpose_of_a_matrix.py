@@ -10,6 +10,6 @@ for i in range(len(a)):
   for j in range(len(a(0))):
     b[i][j]=a[j][i]
     
-#print the matrix b
+#print the matrix b which is transpose of a
 for x in b:
   print(x)
