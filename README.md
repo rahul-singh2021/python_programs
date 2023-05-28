@@ -64,4 +64,5 @@ This program uses the `matplotlib` library to create a stack plot, visualizing t
    
  ## output 
  
-    ![image](https://github.com/rahul-singh2021/python_programs/assets/95570957/a79b4ca0-8def-4387-8917-895f4b616170)
+    ![image](https://github.com/rahul-singh2021/python_programs/assets/95570957/a8f9b92d-5efb-45c2-88c9-afa3399c2916)
+
