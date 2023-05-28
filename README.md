@@ -21,6 +21,6 @@ This is a simple Python program that demonstrates the use of stack plots using M
    ```bash
    git clone https://github.com/rahul_singh2021/stack-plot-example.git
 
-##output
+## output
 
   ![image](https://github.com/rahul-singh2021/python_programs/assets/95570957/969cad7c-4f90-4620-bec3-371243acd816)
