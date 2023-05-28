@@ -19,4 +19,4 @@ This is a simple Python program that demonstrates the use of stack plots using M
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/stack-plot-example.git
+   git clone https://github.com/rahul_singh2021/stack-plot-example.git
