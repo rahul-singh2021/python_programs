@@ -63,6 +63,7 @@ This program uses the `matplotlib` library to create a stack plot, visualizing t
    git clone https://github.com/rahul-singh2021/python_programs.git
    
  ## output 
- 
-    ![image](https://github.com/rahul-singh2021/python_programs/assets/95570957/a8f9b92d-5efb-45c2-88c9-afa3399c2916)
+
+![image](https://github.com/rahul-singh2021/python_programs/assets/95570957/80588691-b64e-4a07-a68c-23c0e6029120)
+
 
