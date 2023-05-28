@@ -5,7 +5,7 @@ Welcome to the Python Programs Repository! This repository is dedicated to showc
 The goal of this repository is to provide a valuable resource for both beginners and experienced Python developers alike. Whether you are just starting your coding journey or looking to enhance your skills, you will find a wide range of programs that cover different topics and areas of interest.
 
 
-# 1: Stack Plot Example
+# 1: pie chart Example
 
 This is a simple Python program that demonstrates the use of stack plots using Matplotlib library. It shows the distribution of activities (sleeping, eating, working, and playing) over a period of five days.
 
