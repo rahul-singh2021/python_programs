@@ -45,3 +45,23 @@ This program uses the `matplotlib` library to create a stack plot, visualizing t
 ##  output
 
    ![image](https://github.com/rahul-singh2021/python_programs/assets/95570957/754150a4-66fd-4710-9c45-8404994f0a22)
+
+# 3:bar graph Program
+
+This program uses the `matplotlib` library to create a stack plot, visualizing the distribution of time spent on different activities over five days.
+
+## Dependencies
+
+- Python 3.x
+- `matplotlib` library
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/rahul-singh2021/python_programs.git
+   
+ ## output 
+ 
+    ![image](https://github.com/rahul-singh2021/python_programs/assets/95570957/a79b4ca0-8def-4387-8917-895f4b616170)
