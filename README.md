@@ -19,8 +19,29 @@ This is a simple Python program that demonstrates the use of stack plots using M
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rahul_singh2021/stack-plot-example.git
+   git clone https://github.com/rahul-singh2021/python_programs.git
 
 ## output
 
   ![image](https://github.com/rahul-singh2021/python_programs/assets/95570957/969cad7c-4f90-4620-bec3-371243acd816)
+
+
+# area graph Program
+
+This program uses the `matplotlib` library to create a stack plot, visualizing the distribution of time spent on different activities over five days.
+
+## Dependencies
+
+- Python 3.x
+- `matplotlib` library
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/rahul-singh2021/python_programs.git
+   
+##  output
+
+   ![image](https://github.com/rahul-singh2021/python_programs/assets/95570957/754150a4-66fd-4710-9c45-8404994f0a22)
