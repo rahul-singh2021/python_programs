@@ -66,4 +66,22 @@ This program uses the `matplotlib` library to create a stack plot, visualizing t
 
 ![image](https://github.com/rahul-singh2021/python_programs/assets/95570957/80588691-b64e-4a07-a68c-23c0e6029120)
 
+# 4:sin and cosine grapg Program
+
+This repository contains a Python script that generates a plot of the sine and cosine functions using the NumPy and Matplotlib libraries.
+
+## Dependencies
+
+- Python 3.x
+- `matplotlib` library
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/rahul-singh2021/python_programs.git
+   
+ ## output 
+![image](https://github.com/rahul-singh2021/python_programs/assets/95570957/dd960e04-3531-42a7-8ab3-fda51ffeef46)
 
