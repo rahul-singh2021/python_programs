@@ -85,3 +85,15 @@ This repository contains a Python script that generates a plot of the sine and c
  ## output 
 ![image](https://github.com/rahul-singh2021/python_programs/assets/95570957/dd960e04-3531-42a7-8ab3-fda51ffeef46)
 
+
+# 5:Matrix Multiplication Program
+
+This program demonstrates matrix multiplication using NumPy.
+
+## Description
+
+This program performs matrix multiplication on two matrices, `matrix1` and `matrix2`, using the `numpy.matmul()` function. The resulting matrix is stored in the variable `multiplication`.
+
+## Usage
+
+1. Install the required dependencies: Make sure you have NumPy installed. You can install it using pip:
