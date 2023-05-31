@@ -117,9 +117,10 @@ The `PrintTree` method uses inorder traversal to print the nodes of the tree in 
 - Use the `insert` method to add nodes to the tree, passing the data value to be inserted.
 - Call the `PrintTree` method to print the elements of the tree in order.
 
+
 ## Example
 
-
+```python
 root = Node(12)
 root.insert(6)
 root.insert(14)
