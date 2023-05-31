@@ -120,7 +120,7 @@ The `PrintTree` method uses inorder traversal to print the nodes of the tree in 
 
  ## Example
 
- ```python
+
  root = Node(12)
  root.insert(6)
  root.insert(14)
@@ -135,7 +135,7 @@ The `PrintTree` method uses inorder traversal to print the nodes of the tree in 
 
 
 
-# 7: broadcasting
+## 7: broadcasting
 
 ## Introduction
 This program demonstrates the usage of NumPy arrays and showcases various operations performed on them.
