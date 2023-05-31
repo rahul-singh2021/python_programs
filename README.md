@@ -146,19 +146,19 @@ The code snippet provided demonstrates the usage of NumPy arrays to perform elem
 ## Usage
 To run this program, you need to have Python and the NumPy library installed. You can install NumPy using pip:
    
-#otput 
+##otput 
   [[ 1  3  5]
- [ 4  6  8]
- [ 7  9 11]]
-[[ 1  2  3]
- [ 5  6  7]
- [ 9 10 11]]
-[[ 1  3  5]
- [ 4  6  8]
- [ 7  9 11]]
-[[ 1  3  5]
- [ 4  6  8]
- [ 7  9 11]]
+  [ 4  6  8]
+  [ 7  9 11]]
+ [[ 1  2  3]
+  [ 5  6  7]
+  [ 9 10 11]]
+ [[ 1  3  5]
+  [ 4  6  8]
+  [ 7  9 11]]
+ [[ 1  3  5]
+  [ 4  6  8]
+  [ 7  9 11]]
 
 
 
