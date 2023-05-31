@@ -119,14 +119,14 @@ The `PrintTree` method uses inorder traversal to print the nodes of the tree in 
 
 ## Example
 
-```python
+
 root = Node(12)
 root.insert(6)
 root.insert(14)
 root.insert(3)
 root.PrintTree()
+Output:
 
-#output
 
 3
 6
