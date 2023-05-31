@@ -126,7 +126,7 @@ root.insert(6)
 root.insert(14)
 root.insert(3)
 root.PrintTree()
-Output:
+##Output:
 
 
 3
