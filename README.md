@@ -127,12 +127,12 @@ root.insert(14)
 root.insert(3)
 root.PrintTree()
 ##Output:
+   3
+   6
+   12
+   14
 
 
-3
-6
-12
-14
 
 
 # 7: broadcasting
