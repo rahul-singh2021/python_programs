@@ -133,3 +133,32 @@ Output:
 6
 12
 14
+
+
+# 7: broadcasting
+
+## Introduction
+This program demonstrates the usage of NumPy arrays and showcases various operations performed on them.
+
+## Code Explanation
+The code snippet provided demonstrates the usage of NumPy arrays to perform element-wise addition between arrays `op1`, `op2`, and `op3`. It showcases the difference between adding a 1D array to a 2D array and transposing the 1D array to a column vector before performing addition.
+
+## Usage
+To run this program, you need to have Python and the NumPy library installed. You can install NumPy using pip:
+   
+#otput 
+  [[ 1  3  5]
+ [ 4  6  8]
+ [ 7  9 11]]
+[[ 1  2  3]
+ [ 5  6  7]
+ [ 9 10 11]]
+[[ 1  3  5]
+ [ 4  6  8]
+ [ 7  9 11]]
+[[ 1  3  5]
+ [ 4  6  8]
+ [ 7  9 11]]
+
+
+
