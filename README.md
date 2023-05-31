@@ -118,15 +118,15 @@ The `PrintTree` method uses inorder traversal to print the nodes of the tree in 
 - Call the `PrintTree` method to print the elements of the tree in order.
 
 
-## Example
+ ## Example
 
-```python
-root = Node(12)
-root.insert(6)
-root.insert(14)
-root.insert(3)
-root.PrintTree()
-##Output:
+ ```python
+ root = Node(12)
+ root.insert(6)
+ root.insert(14)
+ root.insert(3)
+ root.PrintTree()
+ ##Output:
    3
    6
    12
