@@ -161,4 +161,18 @@ To run this program, you need to have Python and the NumPy library installed. Yo
   [ 7  9 11]]
 
 
+# 8:Peak Point Finder
 
+This Python program finds the peak point in an array using a binary search algorithm.
+
+## Requirements
+
+- Python 3.x
+- NumPy
+
+## Installation
+
+1. Clone the repository or download the source code files.
+
+```shell
+git clone https://github.com/rahul-singh21/python_programs.git
