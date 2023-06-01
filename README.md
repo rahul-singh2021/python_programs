@@ -176,3 +176,43 @@ This Python program finds the peak point in an array using a binary search algor
 
 ```shell
 git clone https://github.com/rahul-singh21/python_programs.git
+
+
+# 9:Binary Search Program
+
+This program implements the binary search algorithm to find the index of a given number in a sorted array.
+
+## Usage
+
+To use this program, follow these steps:
+
+1. Make sure you have Python installed on your system.
+2. Clone or download the repository containing the program.
+3. Open the terminal or command prompt and navigate to the directory where the program is located.
+4. Run the program using the command: `python binary_search.py`.
+
+## Algorithm
+
+The binary search algorithm works as follows:
+
+1. Initialize two variables, `f` and `l`, as the first and last indices of the array, respectively.
+2. While `f` is less than or equal to `l`:
+   - Calculate the middle index, `mid`, as the average of `f` and `l`.
+   - If the target number `x` is less than the element at `mid`, update `l` to `mid - 1`.
+   - If the target number `x` is greater than the element at `mid`, update `f` to `mid + 1`.
+   - If the target number `x` is equal to the element at `mid`, return `mid`.
+3. If the target number is not found in the array, return -1.
+
+## Example
+
+Consider the following example:
+
+```python
+array = np.array([6, 3, 1, 7, 2, 10, 5, 37, 8])
+array = sorted(array)
+
+x = 8
+
+index = binarysearch(array, x)
+
+print("The given number is located at:", index)
