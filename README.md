@@ -216,3 +216,21 @@ x = 8
 index = binarysearch(array, x)
 
 print("The given number is located at:", index)
+
+
+# 10:Armstrong Number Checker
+
+This Python program checks whether a given number is an Armstrong number or not.
+
+## Description
+
+An Armstrong number is a number that is equal to the sum of its own digits raised to the power of the number of digits. For example, 153 is an Armstrong number because 1^3 + 5^3 + 3^3 = 153.
+
+The program takes a number as input and calculates the sum of its digits raised to the power of 3. It then compares the result with the original number to determine if it is an Armstrong number or not. The program provides the output accordingly.
+
+## Usage
+
+1. Run the program.
+2. Enter a number when prompted.
+3. The program will calculate the sum of the digits raised to the power of 3 and compare it with the original number.
+4. It will then display whether the number is an Armstrong number or not.
