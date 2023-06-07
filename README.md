@@ -207,7 +207,6 @@ The binary search algorithm works as follows:
 
 Consider the following example:
 
-```python
 array = np.array([6, 3, 1, 7, 2, 10, 5, 37, 8])
 array = sorted(array)
 
