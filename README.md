@@ -174,7 +174,6 @@ This Python program finds the peak point in an array using a binary search algor
 
 1. Clone the repository or download the source code files.
 
-```shell
 git clone https://github.com/rahul-singh21/python_programs.git
 
 
