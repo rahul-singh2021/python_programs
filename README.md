@@ -246,7 +246,7 @@ Iterate over each element in the input list and insert it into the heap using th
 Create an empty list called sort.
 While the heap is not empty, repeatedly remove the smallest element from the heap using the heappop function and append it to the sort list.
 Return the sort list, which contains the sorted elements.
-Usage
+## Usage
 To use this program, follow these steps:
 
 Ensure you have Python installed on your system.
