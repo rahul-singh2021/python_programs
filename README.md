@@ -236,7 +236,7 @@ The program takes a number as input and calculates the sum of its digits raised 
 # 11:Heap Sort
 This is a Python program that demonstrates the implementation of Heap Sort algorithm. Heap Sort is a comparison-based sorting algorithm that utilizes a binary heap data structure to sort elements efficiently.
 
-##Program Description
+## Program Description
 The program uses the heappop and heappush functions from the heapq module, which provide the necessary operations to maintain a min-heap. The heapsort function takes a list of elements as input and sorts them in ascending order using the heap data structure.
 
 ## The steps performed by the program are as follows:
