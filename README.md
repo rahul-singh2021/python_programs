@@ -232,3 +232,26 @@ The program takes a number as input and calculates the sum of its digits raised 
 2. Enter a number when prompted.
 3. The program will calculate the sum of the digits raised to the power of 3 and compare it with the original number.
 4. It will then display whether the number is an Armstrong number or not.
+
+# 11:Heap Sort
+This is a Python program that demonstrates the implementation of Heap Sort algorithm. Heap Sort is a comparison-based sorting algorithm that utilizes a binary heap data structure to sort elements efficiently.
+
+##Program Description
+The program uses the heappop and heappush functions from the heapq module, which provide the necessary operations to maintain a min-heap. The heapsort function takes a list of elements as input and sorts them in ascending order using the heap data structure.
+
+## The steps performed by the program are as follows:
+
+Create an empty heap.
+Iterate over each element in the input list and insert it into the heap using the heappush function.
+Create an empty list called sort.
+While the heap is not empty, repeatedly remove the smallest element from the heap using the heappop function and append it to the sort list.
+Return the sort list, which contains the sorted elements.
+Usage
+To use this program, follow these steps:
+
+Ensure you have Python installed on your system.
+Copy the code into a Python file or clone the repository.
+Import the heappop and heappush functions from the heapq module.
+Call the heapsort function, passing a list of elements as an argument.
+The function will return a new list with the elements sorted in ascending order.
+Print the sorted list or use it as needed in your application.
