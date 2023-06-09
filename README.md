@@ -255,3 +255,22 @@ Import the heappop and heappush functions from the heapq module.
 Call the heapsort function, passing a list of elements as an argument.
 The function will return a new list with the elements sorted in ascending order.
 Print the sorted list or use it as needed in your application.
+
+
+# 12:Angle Calculation
+This is a Python program that calculates the angle between two sides of a right-angled triangle. The program uses the atan function from the math module to calculate the angle in radians, and then converts it to degrees using the deg function.
+
+## Program Description
+The program defines a function called solve that takes two arguments: ab (length of the side opposite to the angle) and bc (length of the side adjacent to the angle). The function calculates the angle using the formula atan(ab/bc), where atan is the arctangent function. The deg function is defined inside solve and is used to convert the angle from radians to degrees.
+
+## The steps performed by the program are as follows:
+
+Import the atan function from the math module.
+Define the deg function that takes an angle in radians and converts it to degrees by multiplying it with 180/pi, where pi is the mathematical constant.
+Define the solve function that takes ab and bc as arguments.
+Calculate the angle in radians using the formula atan(ab/bc) and store it in the variable ans.
+Convert the angle from radians to degrees by calling the deg function on ans.
+Return the calculated angle in degrees.
+Set the values of ab and bc to the desired lengths.
+Call the solve function with ab and bc as arguments.
+Print the calculated angle.
