@@ -274,3 +274,20 @@ Return the calculated angle in degrees.
 Set the values of ab and bc to the desired lengths.
 Call the solve function with ab and bc as arguments.
 Print the calculated angle.
+
+# 13: Scatter Plot
+
+This repository contains code for creating a scatter plot using machine learning with numpy and matplotlib.
+
+## Prerequisites
+
+- Python 3
+- Numpy
+- Matplotlib
+
+## Usage
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/rahul-singh21/python _programs.git
