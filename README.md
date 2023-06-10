@@ -289,8 +289,8 @@ This repository contains code for creating a scatter plot using machine learning
 
 1. Clone the repository:
 
-  ```bash
-  git clone https://github.com/rahul-singh21/python _programs.git
+    ```bash
+    git clone https://github.com/rahul-singh21/python _programs.git
 
 ## output
     
