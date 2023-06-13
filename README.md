@@ -296,3 +296,15 @@ This repository contains code for creating a scatter plot using machine learning
     
   ![image](https://github.com/rahul-singh2021/python_programs/assets/95570957/e1cc568a-8513-413b-aabc-1224319f4950)
 
+# 14:Largest Number Finder
+
+This Python program finds the largest number among three input numbers.
+
+## Usage
+
+1. Modify the values of `num1`, `num2`, and `num3` variables in the program to change the input numbers.
+2. Uncomment the following lines if you want to take three numbers from the user as input.
+   ```python
+   #num1 = float(input("Enter first number: "))
+   #num2 = float(input("Enter second number: "))
+   #num3 = float(input("Enter third number: "))
