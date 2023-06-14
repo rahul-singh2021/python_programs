@@ -308,3 +308,42 @@ This Python program finds the largest number among three input numbers.
    #num1 = float(input("Enter first number: "))
    #num2 = float(input("Enter second number: "))
    #num3 = float(input("Enter third number: "))
+   
+   
+# 15:Armstrong Number Checker
+
+This Python program checks for Armstrong numbers within a specified interval.
+
+## How it works
+
+The program iterates over a given range of numbers and checks if each number is an Armstrong number.
+
+An Armstrong number is a number that is equal to the sum of its own digits raised to the power of the number of digits it has. For example, 153 is an Armstrong number because:
+
+1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153
+
+The program calculates the order of each number (number of digits) using `len(str(num))`. Then, it initializes a sum variable and iterates through each digit of the number, raising it to the power of the order and adding it to the sum. If the sum equals the original number, it is an Armstrong number, and it is printed.
+
+## Usage
+
+To use this program, simply specify the desired range of numbers by modifying the `lower` and `upper` variables in the code. Then, run the program, and the Armstrong numbers within that range will be printed to the console.
+
+```python
+lower = 100
+upper = 2000
+
+for num in range(lower, upper + 1):
+    # order of number
+    order = len(str(num))
+    
+    # initialize sum
+    sum = 0
+
+    temp = num
+    while temp > 0:
+        digit = temp % 10
+        sum += digit ** order
+        temp //= 10
+
+    if num == sum:
+        print(num)   
