@@ -328,25 +328,25 @@ The program calculates the order of each number (number of digits) using `len(st
 
 To use this program, simply specify the desired range of numbers by modifying the `lower` and `upper` variables in the code. Then, run the program, and the Armstrong numbers within that range will be printed to the console.
 
-```python
-lower = 100
-upper = 2000
-
-for num in range(lower, upper + 1):
-    # order of number
-    order = len(str(num))
-    
-    # initialize sum
-    sum = 0
-
-    temp = num
-    while temp > 0:
-        digit = temp % 10
-        sum += digit ** order
-        temp //= 10
-
-    if num == sum:
-        print(num)   
+      ```python
+      lower = 100
+      upper = 2000
+      
+      for num in range(lower, upper + 1):
+          # order of number
+          order = len(str(num))
+          
+          # initialize sum
+          sum = 0
+      
+          temp = num
+          while temp > 0:
+              digit = temp % 10
+              sum += digit ** order
+              temp //= 10
+      
+          if num == sum:
+              print(num)   
 
 
 # 16:Circular Linked List Example
