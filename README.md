@@ -360,3 +360,24 @@ The program defines two classes: `Node` and `circularLinkedList`.
 ### `Node` Class
 
 The `Node` class represents a node in the circular linked list
+
+# 17:Stack Program
+
+   This program demonstrates the implementation of a stack using a list in Python.
+
+## Usage
+
+   1. Run the program `stack.py` in a Python environment.
+   2. The program initializes an empty stack.
+   3. Elements 'a', 'b', and 'c' are pushed onto the stack using the `append()` function.
+   4. The program then demonstrates the LIFO (Last-In-First-Out) behavior of the stack by popping the elements using the `pop()` 
+      function.
+   5. The popped elements are displayed on the console.
+   6. Finally, the program shows the stack's contents after the elements are popped.
+
+## How to Run
+
+   Make sure you have Python installed on your system. Then, follow these steps:
+
+   1. Clone the repository:
+      git clone https://github.com/rahul-singh21/python_programs.git
