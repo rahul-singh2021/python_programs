@@ -381,3 +381,42 @@ The `Node` class represents a node in the circular linked list
 
    1. Clone the repository:
       git clone https://github.com/rahul-singh21/python_programs.git
+
+# 18:Graph Implementation
+
+         This program demonstrates the implementation of a graph using dictionaries in Python.
+
+## Functionality
+
+   - `add_vertex(v)`: Add a vertex to the graph.
+   - `add_edge(v1, v2, e)`: Add an edge between two vertices with a specified edge weight.
+   - `print_graph()`: Print the graph and its edges.
+
+## Usage
+
+   1. Add vertices to the graph using `add_vertex(v)`.
+   2. Add edges between the vertices using `add_edge(v1, v2, e)`.
+   3. Print the graph using `print_graph()`.
+
+## Example
+
+   # Create the graph
+   graph = {}
+   vertices_no = 0
+   add_vertex(1)
+   add_vertex(2)
+   add_vertex(3)
+   add_vertex(4)
+
+   # Add edges between vertices
+   add_edge(1, 2, 1)
+   add_edge(1, 3, 1)
+   add_edge(2, 3, 3)
+   add_edge(3, 4, 4)
+   add_edge(4, 1, 5)
+
+   # Print the graph
+   print_graph()
+
+   # Internal representation
+   print("Internal representation: ", graph)
