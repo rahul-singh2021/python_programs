@@ -420,3 +420,35 @@ The `Node` class represents a node in the circular linked list
 
    # Internal representation
    print("Internal representation: ", graph)
+
+# 19:Doubly Linked List
+
+   This is a Python implementation of a doubly linked list. It consists of two classes: `Node` and `DoublyLinkedList`.
+
+## Node Class
+
+   The `Node` class represents a single node in the doubly linked list. It has the following attributes:
+
+   - `data`: Holds the data stored in the node.
+   - `next`: Points to the next node in the list.
+   - `prev`: Points to the previous node in the list.
+
+## DoublyLinkedList Class
+
+   The `DoublyLinkedList` class represents the doubly linked list. It has the following attributes:
+
+   - `head`: Points to the first node in the list.
+   - `tail`: Points to the last node in the list.
+
+### Methods
+
+   - `push_front(new_data)`: Adds a new element at the beginning of the list.
+   - `push_back(new_data)`: Adds a new element at the end of the list.
+   - `peek_front()`: Returns the value of the first element without removing it.
+   - `peek_back()`: Returns the value of the last element without removing it.
+   - `pop_front()`: Removes and returns the first element.
+   - `pop_back()`: Removes and returns the last element.
+   - `insert_after(temp_node, new_data)`: Inserts a new node after a given node.
+   - `insert_before(temp_node, new_data)`: Inserts a new node before a given node.
+
+Feel free to use and modify this implementation for your own needs.
