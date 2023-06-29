@@ -452,3 +452,18 @@ The `Node` class represents a node in the circular linked list
    - `insert_before(temp_node, new_data)`: Inserts a new node before a given node.
 
 Feel free to use and modify this implementation for your own needs.
+
+
+# 20:Fibonacci Number Checker
+
+   This Python program checks whether a given number is a Fibonacci number.
+
+## Usage
+
+   1. Make sure you have Python installed on your machine.
+   2. Clone or download the repository containing the program.
+   3. Open a terminal or command prompt and navigate to the directory where the program is located.
+   4. Run the program by executing the following command:
+      
+         ```shell
+         python fibonacci_check.py
