@@ -467,3 +467,18 @@ Feel free to use and modify this implementation for your own needs.
       
          ```shell
          python fibonacci_check.py
+
+# 21:Matrix Multiplication Program
+
+   This is a Python program that performs matrix multiplication using nested loops.
+
+## Description
+
+   The program multiplies two matrices, `A` and `B`, and stores the result in `result`. It utilizes nested loops to iterate over the 
+   rows and columns of the matrices. The resulting matrix is then printed.
+
+## Usage
+
+   1. Modify the matrices `A` and `B` in the code according to your requirements.
+   2. Run the program to execute the matrix multiplication.
+   3. The resulting matrix will be displayed in the console.
