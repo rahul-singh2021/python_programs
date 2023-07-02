@@ -482,3 +482,17 @@ Feel free to use and modify this implementation for your own needs.
    1. Modify the matrices `A` and `B` in the code according to your requirements.
    2. Run the program to execute the matrix multiplication.
    3. The resulting matrix will be displayed in the console.
+   4. 
+
+
+# 22:Matrix Transpose Program
+
+   This program transposes a given matrix using a nested loop. It takes a matrix `X` as input and generates the transpose matrix 
+   `result`. The transpose of a matrix is obtained by interchanging its rows with columns.
+
+## Usage
+
+   - Modify the matrix `X` in the program if you want to transpose a different matrix.
+   - Run the program and observe the output.   
+
+    git clone https://github.com/rahul-singh21/python_programs.git
